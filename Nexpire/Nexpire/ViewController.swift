@@ -37,7 +37,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UITableViewDelegate
         
         // Specify the header
         let header = [
-            "x-rapidapi-key": "49f7a814d4msh40ad16101a77fdcp16ddccjsn6076649099e1",
+            "x-rapidapi-key": "******************************",
             "x-rapidapi-host": "unogs-unogs-v1.p.rapidapi.com"
         ]
         
